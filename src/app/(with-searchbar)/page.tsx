@@ -2,7 +2,7 @@ import BookItem from "@/components/book-item";
 import style from "./page.module.css";
 import { BookData } from "@/types";
 
-export const dynamic = "force-dynamic";
+// export const dynamic = "force-dynamic";
 //특정 페이지 유형을 강제로 static, Dynamic 페이지로 설정
 // 1. auto : 기본값, 아무것도 강제하지 않음
 // 2.force-dynamic : 페이지를 강제로 Dynamic 페이지로 설정
